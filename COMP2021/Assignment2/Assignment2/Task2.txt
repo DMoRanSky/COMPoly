@@ -1,0 +1,21 @@
+test1:
+
+Yes.
+2.5.3.8.9.
+
+test2:
+
+Yes.
+1.11.14.5.12.7.9.15.18
+
+test3:
+
+No.
+
+It will cause a compile error.
+
+EA must be declared in the test method.
+EB is an unchecked exception (Runtime Exception) and does not need to be declared in the test method
+(Although program will actually throw EB instead of EA).
+
+Change: add "throws EA" after "public void test3()".

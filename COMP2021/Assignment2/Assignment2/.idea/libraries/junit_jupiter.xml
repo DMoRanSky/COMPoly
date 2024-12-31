@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="junit.jupiter" type="repository">
+    <properties maven-id="org.junit.jupiter:junit-jupiter:5.10.1" />
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
